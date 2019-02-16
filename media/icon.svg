@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="256" height="256" viewBox="0 0 67.733332 67.733335" version="1.1" id="svg8" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="icon.svg" inkscape:export-filename="./icon.png" inkscape:export-xdpi="96" inkscape:export-ydpi="96">
+  <defs id="defs2" />
+  <sodipodi:namedview id="base" pagecolor="#e07f67" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:zoom="1.4" inkscape:cx="84.984104" inkscape:cy="136.34216" inkscape:document-units="mm" inkscape:current-layer="layer1" showgrid="true" units="px" inkscape:window-width="1862" inkscape:window-height="1127" inkscape:window-x="2764" inkscape:window-y="588" inkscape:window-maximized="0" inkscape:pagecheckerboard="false" borderlayer="true">
+    <inkscape:grid type="xygrid" id="grid815" />
+  </sodipodi:namedview>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-229.26665)">
+    <image sodipodi:absref="C:\Dev\CSharp\BoilingHot\media\itch-underlay.png" xlink:href="itch-underlay.png" y="215.6931" x="-22.489573" id="image825" style="image-rendering:optimizeQuality" preserveAspectRatio="none" height="89.244385" width="112.44791" />
+    <text xml:space="preserve" style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:47.625px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Thin';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" x="32.913235" y="280.06253" id="text819"><tspan sodipodi:role="line" id="tspan817" x="32.913235" y="280.06253" style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:47.625px;font-family:Roboto;-inkscape-font-specification:'Roboto Thin';text-align:center;text-anchor:middle;stroke-width:0.52916664">B<tspan style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.625px;font-family:Roboto;-inkscape-font-specification:Roboto" id="tspan815">H</tspan></tspan></text>
+  </g>
+</svg>
