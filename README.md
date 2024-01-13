@@ -7,7 +7,9 @@ from the game's official Twitter account showing some game footage in slow motio
 This got me thinking "Hey, that looks just about the pace the game goes in Heat Signature during combat.
 I wonder how'd this work as an actual game mechanic". Pretty well, apparently!
 
-Extra links: [itch.io page](https://yellowafterlife.itch.io/boiling-hot) · [small video](https://www.youtube.com/watch?v=sNpEsA_0j4U)
+**Extra links:** [itch.io page](https://yellowafterlife.itch.io/boiling-hot) · [small video](https://www.youtube.com/watch?v=sNpEsA_0j4U)
+
+**Note:** as of 2023, this mod has also been integrated as an accessibility option into the game and can be currently found on the "unstable" branch on Steam.
 
 ## Mechanics
 Unless you are moving (or trying to), attacking with a melee weapon,
